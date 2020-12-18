@@ -4,7 +4,7 @@ ebook Machine Learning cơ bản [pdf](https://github.com/tiepvupsu/ebookMLCB/bl
 
 *Mọi hình thức sao chép, in ấn đều cần được sự đồng ý của tác giả. Mọi chia sẻ đều cần được dẫn nguồn tới [https://github.com/tiepvupsu/ebookMLCB](https://github.com/tiepvupsu/ebookMLCB) hoặc [https://machinelearningcoban.com](https://machinelearningcoban.com).*
 
-**Hiện sách giấy không còn được bán nữa.**
+**Hiện sách giấy còn được bán nữa.**
 
 Nếu bạn gặp bất cứ lỗi nào hoặc cho rằng nội dung có thể được cải thiện, bạn có thể tạo một issue [tại đây](https://github.com/tiepvupsu/ebookMLCB/issues).
 
